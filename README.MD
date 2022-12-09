@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/a4t9lxcq5iai231o?svg=true)](https://ci.appveyor.com/project/FURSADMIT/testap-dsnur)
+hm21an43nxobo?svg=true)](https://ci.appveyor.com/project/FURSADMIT/testap-9y832)
